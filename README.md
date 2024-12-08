@@ -1,4 +1,9 @@
 # IS-Lab2 (EN)
+# Solution:
+
+![graph](lab2.png)
+
+
 Intelligent systems. Task for the laboratory on Multi-Layer Perceptron training.
 # Aim
 Learn to write training (parameter estimation) algorithm for the Multi-Layer Perceptron based approximator.
